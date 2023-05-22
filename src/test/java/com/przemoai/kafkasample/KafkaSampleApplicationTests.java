@@ -1,4 +1,4 @@
-package com.example.kafkasample;
+package com.przemoai.kafkasample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

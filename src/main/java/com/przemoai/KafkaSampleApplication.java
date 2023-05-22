@@ -1,4 +1,4 @@
-package com.example.kafkasample;
+package com.przemoai;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
